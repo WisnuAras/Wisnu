@@ -5,7 +5,7 @@ owner = [
   ['6283137354143'],
   ['6283137354143'],
   ['6283137354143', 'Owner', Wisnu]
-  // [number, dia creator/owner?, dia developer?]
+  // [number, dia creator/owner wisnu, dia developer?]
 ] // Put your number here
 mods = [] // Want some help?
 prems = [] // Premium user has unlimited limit
